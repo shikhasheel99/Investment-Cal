@@ -1,0 +1,61 @@
+*{
+
+  color: antiquewhite;
+  text-align: center;
+  align-items: center;
+
+}
+body{background-color: black;}
+div{
+  display: inline;
+  margin: 20px;
+}
+
+h1{
+  color: aliceblue;
+}
+
+button{
+  background-color: aliceblue;
+  color: black;
+  height: 40px;
+  width: 70px;
+  gap: 10px;
+  margin-right: 2rem;
+  border-radius: 10px;
+}
+label{
+  background-color: rgb(4, 117, 79);
+  font-weight: 400;
+}
+input{
+  background-color: blanchedalmond;
+  color: black;
+  height: 30px;
+  margin: 40px;
+  border-radius: 10px;
+
+}
+
+
+.inputboxes{
+  background-color: rgb(4, 117, 79);
+  display: inline-table;
+  align-items: center;
+  width: 1000px;
+  height: 300px;
+  margin: 50px;
+  padding: 40px;
+}
+ul{
+  list-style: none;
+}
+.input-li{
+  display: inline;
+
+  align-self: center;
+  
+}
+th{
+width: 20%;
+}
